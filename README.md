@@ -1,7 +1,7 @@
 # 🤔 Trivia 🤔
 ## :dancers: Team :dancers:
 *Julia*
-*Maria Luiza*
+*Maria Luiza Castelar*
 *Pollyana Oliveira*
 *Renzo Sevilha*
 
