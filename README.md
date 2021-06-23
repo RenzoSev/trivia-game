@@ -1,9 +1,9 @@
 # 🤔 Trivia 🤔
 ## :dancers: Team :dancers:
-* Julia Baptista*
-* Maria Luiza Castelar*
-* Pollyana Oliveira*
-* Renzo Sevilha*
+* __*Julia Baptista*__
+* __*Maria Luiza Castelar*__
+* __*Pollyana Oliveira*__
+* __*Renzo Sevilha*__
 
 ## :exclamation:  __Requisitos Obrigatórios__
 
